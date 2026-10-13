@@ -1,10 +1,10 @@
-<a href="https://tsksepeti.com"><img src="assets/hero.webp" alt="TSK Sepeti presentation: desktop and mobile screens of the live store" width="100%"></a>
+<a href="https://tsksepeti.com"><img src="assets/cover.webp" alt="TSK Sepeti: real desktop and mobile screens of tsksepeti.com" width="100%"></a>
 
 # TSK Sepeti
 
 An online store for knives, outdoor equipment, lighting, camping and personal security products.
 
-**Live:** [tsksepeti.com](https://tsksepeti.com) &nbsp;·&nbsp; **More work:** [github.com/mertomeroglu](https://github.com/mertomeroglu)
+**[Visit tsksepeti.com ↗︎](https://tsksepeti.com)** &nbsp;·&nbsp; [More work by Mert Ömeroğlu](https://github.com/mertomeroglu)
 
 ### Highlights
 
@@ -17,8 +17,12 @@ An online store for knives, outdoor equipment, lighting, camping and personal se
 
 Next.js · React
 
-<p align="center"><a href="https://tsksepeti.com"><img src="assets/poster.webp" alt="TSK Sepeti portrait presentation with desktop and mobile screens" width="420"></a></p>
+### Screens
+
+<a href="https://tsksepeti.com"><img src="assets/desktop.webp" alt="TSK Sepeti desktop: real screen of tsksepeti.com" width="100%"></a>
+
+<p align="center"><img src="assets/mobile.webp" alt="TSK Sepeti on a phone: real mobile screen of tsksepeti.com" width="300"></p>
 
 ---
 
-<sub>Presentation-only repository: this README and two presentation images built from real product screens. Application source and private configuration are not published here. Visual content and brand assets remain the property of their respective owners — see [LICENSE](LICENSE).</sub>
+<sub>Presentation-only repository. Images are real, unmodified product screens in a simple frame; application source and private configuration are not published here. Brands and visual content belong to their respective owners — see [LICENSE](LICENSE).</sub>
